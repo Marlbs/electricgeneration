@@ -1,0 +1,1358 @@
+{
+  "Tesla Model Y": [
+    {
+      "file": "Tesla Model Y 2021032001.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Evnerd",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_2021032001.jpg"
+    },
+    {
+      "file": "Tesla Model Y front passenger side view.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Daniel.Cardenas",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_front_passenger_side_view.jpg"
+    },
+    {
+      "file": "Tesla Model Y rear passenger view.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Daniel.Cardenas",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_Y_rear_passenger_view.jpg"
+    }
+  ],
+  "Tesla Model 3": [
+    {
+      "file": "Tesla Model 3 1X7A6940.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_1X7A6940.jpg"
+    },
+    {
+      "file": "The interior of TESLA MODEL 3.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:The_interior_of_TESLA_MODEL_3.jpg"
+    },
+    {
+      "file": "Tesla Model 3 (2023) Auto Zuerich 2023 1X7A1313.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_3_(2023)_Auto_Zuerich_2023_1X7A1313.jpg"
+    }
+  ],
+  "Audi Q4 e-tron": [
+    {
+      "file": "Audi Q4 e-tron IAA 2021 1X7A0224.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Audi_Q4_e-tron_IAA_2021_1X7A0224.jpg"
+    },
+    {
+      "file": "Audi Q4 Sportback e-tron IAA 2021 1X7A0159.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Audi_Q4_Sportback_e-tron_IAA_2021_1X7A0159.jpg"
+    },
+    {
+      "file": "AUDI Q4 e-tron INTERIOR.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Dinkun Chen",
+      "source": "https://commons.wikimedia.org/wiki/File:AUDI_Q4_e-tron_INTERIOR.jpg"
+    }
+  ],
+  "Audi Q6 e-tron": [
+    {
+      "file": "Audi Q6 e-tron IAA 2023 1X7A0054.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Audi_Q6_e-tron_IAA_2023_1X7A0054.jpg"
+    },
+    {
+      "file": "2025 Audi Q6 e-tron quattro Premium Plus in Plasma Blue, front left.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mr.choppers",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Audi_Q6_e-tron_quattro_Premium_Plus_in_Plasma_Blue%2C_front_left.jpg"
+    },
+    {
+      "file": "Audi Q6 e-tron Sportback DSC 9276.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Audi_Q6_e-tron_Sportback_DSC_9276.jpg"
+    }
+  ],
+  "Ford Explorer": [
+    {
+      "file": "Ford Explorer EV IAA 2023 1X7A0565.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Explorer_EV_IAA_2023_1X7A0565.jpg"
+    },
+    {
+      "file": "Ford Explorer EV (front).jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fiver, der Hellseher",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Explorer_EV_(front).jpg"
+    },
+    {
+      "file": "Ford Explorer EV (rear).jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fiver, der Hellseher",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Explorer_EV_(rear).jpg"
+    }
+  ],
+  "BMW i4": [
+    {
+      "file": "BMW i4.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "MrWalkr",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_i4.jpg"
+    },
+    {
+      "file": "BMW i4 IAA 2021 1X7A0307.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_i4_IAA_2021_1X7A0307.jpg"
+    },
+    {
+      "file": "BMW i4 IAA 2021 1X7A0308.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_i4_IAA_2021_1X7A0308.jpg"
+    }
+  ],
+  "Skoda Enyaq": [
+    {
+      "file": "Skoda Enyaq iV 80 – f1 03052021.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 3.0 DE",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/de/deed.en",
+      "author": "M 93",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Enyaq_iV_80_%E2%80%93_f1_03052021.jpg"
+    },
+    {
+      "file": "Skoda Enyaq interior 01.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Ssu",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Enyaq_interior_01.jpg"
+    },
+    {
+      "file": "Skoda Enyaq Sportline 1X7A0316.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Enyaq_Sportline_1X7A0316.jpg"
+    }
+  ],
+  "Kia EV3": [
+    {
+      "file": "Kia EV3 GT-Line Automesse Ludwigsburg 2024 IMG 1405.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV3_GT-Line_Automesse_Ludwigsburg_2024_IMG_1405.jpg"
+    },
+    {
+      "file": "Kia EV3 GT-Line Automesse Ludwigsburg 2024 IMG 1674.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV3_GT-Line_Automesse_Ludwigsburg_2024_IMG_1674.jpg"
+    },
+    {
+      "file": "Kia EV3 GT-Line Automesse Ludwigsburg 2024 IMG 1601.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV3_GT-Line_Automesse_Ludwigsburg_2024_IMG_1601.jpg"
+    }
+  ],
+  "Skoda Elroq": [
+    {
+      "file": "Skoda Elroq, Auto 2024, Zurich (PANA0877).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Elroq%2C_Auto_2024%2C_Zurich_(PANA0877).jpg"
+    },
+    {
+      "file": "Skoda Elroq RS front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Elroq_RS_front.jpg"
+    },
+    {
+      "file": "Skoda Elroq RS rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Skoda_Elroq_RS_rear.jpg"
+    }
+  ],
+  "Volvo EX30": [
+    {
+      "file": "Volvo EX30 Auto Zuerich 2023 1X7A0949.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Volvo_EX30_Auto_Zuerich_2023_1X7A0949.jpg"
+    },
+    {
+      "file": "Volvo EX30 Auto Zuerich 2023 1X7A0954.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Volvo_EX30_Auto_Zuerich_2023_1X7A0954.jpg"
+    },
+    {
+      "file": "Volvo EX30 1X7A1945.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Volvo_EX30_1X7A1945.jpg"
+    }
+  ],
+  "Renault 5 E-Tech": [
+    {
+      "file": "Renault R5 E-Tech, GIMS 2024, Le Grand-Saconnex (GIMS0105-2).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_R5_E-Tech%2C_GIMS_2024%2C_Le_Grand-Saconnex_(GIMS0105-2).jpg"
+    },
+    {
+      "file": "Renault 5 E-Tech GIMS 2024 1X7A2227.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_5_E-Tech_GIMS_2024_1X7A2227.jpg"
+    },
+    {
+      "file": "Renault 5 E-Tech GIMS 2024 1X7A2319.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_5_E-Tech_GIMS_2024_1X7A2319.jpg"
+    }
+  ],
+  "Ford Puma Gen-E": [
+    {
+      "file": "Ford Puma Gen-E AMA Marbach 2025 DSC 8595.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Puma_Gen-E_AMA_Marbach_2025_DSC_8595.jpg"
+    },
+    {
+      "file": "2025 Ford Puma Gen-E Front View.jpg",
+      "kind": "front",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Pamsimhaho",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Ford_Puma_Gen-E_Front_View.jpg"
+    },
+    {
+      "file": "Ford Puma Gen-E AMA Marbach 2025 DSC 8618.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Puma_Gen-E_AMA_Marbach_2025_DSC_8618.jpg"
+    }
+  ],
+  "Kia Niro EV": [
+    {
+      "file": "2019 Kia Niro EV First Edition.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2019_Kia_Niro_EV_First_Edition.jpg"
+    },
+    {
+      "file": "Kia Niro EV SG2 EV white (2).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Damian B Oh",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_Niro_EV_SG2_EV_white_(2).jpg"
+    }
+  ],
+  "Nissan Ariya": [
+    {
+      "file": "Nissan Ariya 001.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Elizbeth smith",
+      "source": "https://commons.wikimedia.org/wiki/File:Nissan_Ariya_001.jpg"
+    },
+    {
+      "file": "Nissan Ariya, BlueGray interior, 2022.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Kazyakuruma",
+      "source": "https://commons.wikimedia.org/wiki/File:Nissan_Ariya%2C_BlueGray_interior%2C_2022.jpg"
+    },
+    {
+      "file": "Nissan Ariya 004.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Elizbeth smith",
+      "source": "https://commons.wikimedia.org/wiki/File:Nissan_Ariya_004.jpg"
+    }
+  ],
+  "Volkswagen ID.3": [
+    {
+      "file": "Volkswagen ID.3 at IAA 2019 IMG 0211.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.3_at_IAA_2019_IMG_0211.jpg"
+    },
+    {
+      "file": "2020 Volkswagen ID.3 1st Front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_ID.3_1st_Front.jpg"
+    },
+    {
+      "file": "2020 Volkswagen ID.3 1st Backseats.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_ID.3_1st_Backseats.jpg"
+    }
+  ],
+  "MG MG4 EV": [
+    {
+      "file": "MG4 EV Automesse Ludwigsburg 2022 1X7A5870.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:MG4_EV_Automesse_Ludwigsburg_2022_1X7A5870.jpg"
+    },
+    {
+      "file": "MG4 EV Automesse Ludwigsburg 2022 1X7A5871.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:MG4_EV_Automesse_Ludwigsburg_2022_1X7A5871.jpg"
+    },
+    {
+      "file": "MG4 EV Automesse Ludwigsburg 2022 1X7A5873.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:MG4_EV_Automesse_Ludwigsburg_2022_1X7A5873.jpg"
+    }
+  ],
+  "Vauxhall Corsa Electric": [
+    {
+      "file": "Opel Corsa-e at IAA 2019 IMG 0738.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Opel_Corsa-e_at_IAA_2019_IMG_0738.jpg"
+    },
+    {
+      "file": "Opel Corsa-e (rear).jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Fiver, der Hellseher",
+      "source": "https://commons.wikimedia.org/wiki/File:Opel_Corsa-e_(rear).jpg"
+    }
+  ],
+  "Hyundai Kona Electric": [
+    {
+      "file": "Hyundai Kona Electric (SX2) Auto Zuerich 2023 1X7A1021.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Kona_Electric_(SX2)_Auto_Zuerich_2023_1X7A1021.jpg"
+    },
+    {
+      "file": "Hyundai Kona Electric (SX2) Auto Zuerich 2023 1X7A1152.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Kona_Electric_(SX2)_Auto_Zuerich_2023_1X7A1152.jpg"
+    },
+    {
+      "file": "Hyundai Kona Electric (SX2) Auto Zuerich 2023 1X7A1159.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Kona_Electric_(SX2)_Auto_Zuerich_2023_1X7A1159.jpg"
+    }
+  ],
+  "Peugeot E-2008": [
+    {
+      "file": "Peugeot e-2008 GT (ZAA-P24ZK01) front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Peugeot_e-2008_GT_(ZAA-P24ZK01)_front.jpg"
+    },
+    {
+      "file": "Peugeot e-2008 GT (ZAA-P24ZK01) rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Peugeot_e-2008_GT_(ZAA-P24ZK01)_rear.jpg"
+    },
+    {
+      "file": "2020 Peugeot e-2008 GT Line (1).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Peugeot_e-2008_GT_Line_(1).jpg"
+    }
+  ],
+  "BMW iX1": [
+    {
+      "file": "BMW iX1 1X7A6827.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_iX1_1X7A6827.jpg"
+    },
+    {
+      "file": "2023-12 BMW iX1 charging front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Wikisympathisant",
+      "source": "https://commons.wikimedia.org/wiki/File:2023-12_BMW_iX1_charging_front.jpg"
+    },
+    {
+      "file": "BMW iX1 1X7A6829.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_iX1_1X7A6829.jpg"
+    }
+  ],
+  "Cupra Born": [
+    {
+      "file": "Cupra Born IAA 2021 1X7A0243.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupra_Born_IAA_2021_1X7A0243.jpg"
+    },
+    {
+      "file": "2021 Cupra Born interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "AutobildEs",
+      "source": "https://commons.wikimedia.org/wiki/File:2021_Cupra_Born_interior.jpg"
+    },
+    {
+      "file": "Cupra Born IAA 2021 1X7A0250.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupra_Born_IAA_2021_1X7A0250.jpg"
+    }
+  ],
+  "BYD Dolphin": [
+    {
+      "file": "BYD Dolphin IAA 2023 1X7A0365.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:BYD_Dolphin_IAA_2023_1X7A0365.jpg"
+    },
+    {
+      "file": "2025 BYD Dolphin interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "iMoD Official",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_BYD_Dolphin_interior.jpg"
+    },
+    {
+      "file": "BYD Dolphin IAA 2023 1X7A0367.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:BYD_Dolphin_IAA_2023_1X7A0367.jpg"
+    }
+  ],
+  "Mini Cooper Electric": [
+    {
+      "file": "Mini Cooper S Electric, 1.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Renardo la vulpo",
+      "source": "https://commons.wikimedia.org/wiki/File:Mini_Cooper_S_Electric%2C_1.jpg"
+    },
+    {
+      "file": "2025 Mini Cooper S Electric Favoured interior.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Ethan Llamas",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Mini_Cooper_S_Electric_Favoured_interior.jpg"
+    }
+  ],
+  "Polestar 2": [
+    {
+      "file": "Polestar 2 Genf 2019 1Y7A6000.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Polestar_2_Genf_2019_1Y7A6000.jpg"
+    },
+    {
+      "file": "Polestar 2, GIMS 2019, Le Grand-Saconnex (GIMS0552).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Polestar_2%2C_GIMS_2019%2C_Le_Grand-Saconnex_(GIMS0552).jpg"
+    },
+    {
+      "file": "Polestar 2 Toronto 2.jpg",
+      "kind": "exterior",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "PvOberstein",
+      "source": "https://commons.wikimedia.org/wiki/File:Polestar_2_Toronto_2.jpg"
+    }
+  ],
+  "Smart #1": [
+    {
+      "file": "Smart 1 Brabus 005.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "JustAnotherCarDesign",
+      "source": "https://commons.wikimedia.org/wiki/File:Smart_1_Brabus_005.jpg"
+    },
+    {
+      "file": "Smart 1 prototype front quarter.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Jason-Ferrari",
+      "source": "https://commons.wikimedia.org/wiki/File:Smart_1_prototype_front_quarter.jpg"
+    },
+    {
+      "file": "Smart 1 prototype rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Jason-Ferrari",
+      "source": "https://commons.wikimedia.org/wiki/File:Smart_1_prototype_rear.jpg"
+    }
+  ],
+  "Volkswagen ID.4": [
+    {
+      "file": "Volkswagen ID.4 CROZZ 140511202020.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Martininhe",
+      "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.4_CROZZ_140511202020.jpg"
+    },
+    {
+      "file": "2020 Volkswagen ID.4 Pro (Netherlands) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "author": "Dennis Elzinga",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Volkswagen_ID.4_Pro_(Netherlands)_front_view.jpg"
+    },
+    {
+      "file": "The interior of Volkswagen ID.4.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:The_interior_of_Volkswagen_ID.4.jpg"
+    }
+  ],
+  "Volkswagen ID.7": [
+    {
+      "file": "Volkswagen ID.7 IAA 2023 1X7A0307.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.7_IAA_2023_1X7A0307.jpg"
+    },
+    {
+      "file": "VOLKSWAGEN ID.7 INTERIOR.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Dinkun Chen",
+      "source": "https://commons.wikimedia.org/wiki/File:VOLKSWAGEN_ID.7_INTERIOR.jpg"
+    },
+    {
+      "file": "Volkswagen ID.7 IAA 2023 1X7A0375.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Volkswagen_ID.7_IAA_2023_1X7A0375.jpg"
+    }
+  ],
+  "Citroën ë-C3": [
+    {
+      "file": "2023 Citroën ë-C3 (Indonesia) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Andra Febrian",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Citro%C3%ABn_%C3%AB-C3_(Indonesia)_front_view.jpg"
+    },
+    {
+      "file": "2023 Citroën ë-C3 (Indonesia) rear view.jpg",
+      "kind": "rear",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0/",
+      "author": "Andra Febrian",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Citro%C3%ABn_%C3%AB-C3_(Indonesia)_rear_view.jpg"
+    }
+  ],
+  "Dacia Spring": [
+    {
+      "file": "Dacia Spring IAA 2021 1X7A0215.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Dacia_Spring_IAA_2021_1X7A0215.jpg"
+    },
+    {
+      "file": "2021 Dacia Spring Electric (France) interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Ubi-testet",
+      "source": "https://commons.wikimedia.org/wiki/File:2021_Dacia_Spring_Electric_(France)_interior.jpg"
+    },
+    {
+      "file": "Dacia Spring IAA 2021 1X7A0216.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Dacia_Spring_IAA_2021_1X7A0216.jpg"
+    }
+  ],
+  "Renault Scénic E-Tech": [
+    {
+      "file": "Renault Scenic E-Tech, BAS 24, Brussels (P1170258-RR).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_Scenic_E-Tech%2C_BAS_24%2C_Brussels_(P1170258-RR).jpg"
+    },
+    {
+      "file": "Renault Scenic E-Tech, BAS 24, Brussels (P1170249-RR).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_Scenic_E-Tech%2C_BAS_24%2C_Brussels_(P1170249-RR).jpg"
+    },
+    {
+      "file": "Renault Scénic E-Tech GIMS 2024 1X7A2033.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Renault_Sc%C3%A9nic_E-Tech_GIMS_2024_1X7A2033.jpg"
+    }
+  ],
+  "Mercedes-Benz EQA": [
+    {
+      "file": "Mercedes-Benz EQA 250 (H243) front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQA_250_(H243)_front.jpg"
+    },
+    {
+      "file": "Mercedes-Benz EQA 250 (H243) rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQA_250_(H243)_rear.jpg"
+    }
+  ],
+  "Peugeot e-208": [
+    {
+      "file": "Peugeot e-208 Allure Genf 2019 1Y7A5132.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Peugeot_e-208_Allure_Genf_2019_1Y7A5132.jpg"
+    },
+    {
+      "file": "2020 Peugeot e-208 Allure Front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Peugeot_e-208_Allure_Front.jpg"
+    },
+    {
+      "file": "2020 Peugeot e-208 Allure Rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2020_Peugeot_e-208_Allure_Rear.jpg"
+    }
+  ],
+  "Toyota bZ4X": [
+    {
+      "file": "Toyota bZ4X 002.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "JustAnotherCarDesigner",
+      "source": "https://commons.wikimedia.org/wiki/File:Toyota_bZ4X_002.jpg"
+    },
+    {
+      "file": "2022 Toyota bZ4X rear (cropped).jpg",
+      "kind": "rear",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "TTTNIS",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_Toyota_bZ4X_rear_(cropped).jpg"
+    },
+    {
+      "file": "Interior Toyota bZ4X Expo 2022 CRI 4889.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "source": "https://commons.wikimedia.org/wiki/File:Interior_Toyota_bZ4X_Expo_2022_CRI_4889.jpg"
+    }
+  ],
+  "Hyundai Inster": [
+    {
+      "file": "Hyundai Inster Auto Zuerich 2024 DSC 6286.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Inster_Auto_Zuerich_2024_DSC_6286.jpg"
+    },
+    {
+      "file": "Hyundai Inster Cross in Hyundai Citystore Fukuoka Front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Kalmarle",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Inster_Cross_in_Hyundai_Citystore_Fukuoka_Front.jpg"
+    },
+    {
+      "file": "Hyundai Inster Cross in Hyundai Citystore Fukuoka Rear Seat.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Kalmarle",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Inster_Cross_in_Hyundai_Citystore_Fukuoka_Rear_Seat.jpg"
+    }
+  ],
+  "Mercedes-Benz EQB": [
+    {
+      "file": "Mercedes-Benz EQB 002.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "JustAnotherCarDesigner",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQB_002.jpg"
+    },
+    {
+      "file": "Mercedes-Benz EQB 250 (X243) front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQB_250_(X243)_front.jpg"
+    },
+    {
+      "file": "Mercedes-Benz EQB (X243,European specifications) rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Tokumeigakarinoaoshima",
+      "source": "https://commons.wikimedia.org/wiki/File:Mercedes-Benz_EQB_(X243%2CEuropean_specifications)_rear.jpg"
+    }
+  ],
+  "Cupra Tavascan": [
+    {
+      "file": "Cupra Tavascan, IAA Summit 2023, Munich (P1110731-Pano).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupra_Tavascan%2C_IAA_Summit_2023%2C_Munich_(P1110731-Pano).jpg"
+    },
+    {
+      "file": "Cupra Tavascan, IAA Summit 2023, Munich (P1110814).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupra_Tavascan%2C_IAA_Summit_2023%2C_Munich_(P1110814).jpg"
+    },
+    {
+      "file": "Cupra Tavascan, IAA Summit 2023, Munich (P1110846).jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Matti Blume",
+      "source": "https://commons.wikimedia.org/wiki/File:Cupra_Tavascan%2C_IAA_Summit_2023%2C_Munich_(P1110846).jpg"
+    }
+  ],
+  "Chevrolet Equinox EV": [
+    {
+      "file": "2024 Chevrolet Equinox EV AWD (United States) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Equinox_EV_AWD_(United_States)_front_view.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Equinox EV AWD (United States) rear view.jpg",
+      "kind": "rear",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Equinox_EV_AWD_(United_States)_rear_view.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Equinox EV AWD (United States) interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Equinox_EV_AWD_(United_States)_interior.jpg"
+    }
+  ],
+  "Ford Mustang Mach-E": [
+    {
+      "file": "Ford Mustang Mach-E GT IAA 2021 1X7A0176.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Mach-E_GT_IAA_2021_1X7A0176.jpg"
+    },
+    {
+      "file": "2021 Ford Mustang Mach-E Standard Range Interior.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Vauxford",
+      "source": "https://commons.wikimedia.org/wiki/File:2021_Ford_Mustang_Mach-E_Standard_Range_Interior.jpg"
+    },
+    {
+      "file": "Ford Mustang Mach-E IAA 2021 1X7A0236.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_Mustang_Mach-E_IAA_2021_1X7A0236.jpg"
+    }
+  ],
+  "Hyundai Ioniq 5": [
+    {
+      "file": "Hyundai Ioniq 5 IAA 2021 1X7A0189.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0189.jpg"
+    },
+    {
+      "file": "Hyundai Ioniq 5 NE Interior (1).jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Damian B Oh",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_NE_Interior_(1).jpg"
+    },
+    {
+      "file": "Hyundai Ioniq 5 IAA 2021 1X7A0193.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Hyundai_Ioniq_5_IAA_2021_1X7A0193.jpg"
+    }
+  ],
+  "Honda Prologue": [
+    {
+      "file": "Honda Prologue Elite (2024) (53625033331).jpg",
+      "kind": "exterior",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "author": "Charles from Port Chester",
+      "source": "https://commons.wikimedia.org/wiki/File:Honda_Prologue_Elite_(2024)_(53625033331).jpg"
+    },
+    {
+      "file": "2024 Honda Prologue Elite AWD (United States) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Autosdeprimera",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Honda_Prologue_Elite_AWD_(United_States)_front_view.jpg"
+    },
+    {
+      "file": "2024 Honda Prologue Elite AWD (United States) rear view.jpg",
+      "kind": "rear",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Autosdeprimera",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Honda_Prologue_Elite_AWD_(United_States)_rear_view.jpg"
+    }
+  ],
+  "Ford F-150 Lightning": [
+    {
+      "file": "Ford F-150 Lightning.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Xboxcarsforza1",
+      "source": "https://commons.wikimedia.org/wiki/File:Ford_F-150_Lightning.jpg"
+    },
+    {
+      "file": "2023 Denver Auto Show Ford F-150 Lightning front left quarter.jpg",
+      "kind": "front",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Corqe",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Denver_Auto_Show_Ford_F-150_Lightning_front_left_quarter.jpg"
+    },
+    {
+      "file": "President Biden Ford F150 Lightning 05 20 2021.jpg",
+      "kind": "side",
+      "license": "Public domain",
+      "licenseUrl": "https://en.wikipedia.org/wiki/Public_domain",
+      "author": "The White House",
+      "source": "https://commons.wikimedia.org/wiki/File:President_Biden_Ford_F150_Lightning_05_20_2021.jpg"
+    }
+  ],
+  "Tesla Cybertruck": [
+    {
+      "file": "20191121-tesla-cybertruck-interior-seat-backs.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "u/mrlewaynee",
+      "source": "https://commons.wikimedia.org/wiki/File:20191121-tesla-cybertruck-interior-seat-backs.jpg"
+    },
+    {
+      "file": "2024 Tesla Cybertruck, Moab 02.jpg",
+      "kind": "exterior",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "A1C6",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Tesla_Cybertruck%2C_Moab_02.jpg"
+    }
+  ],
+  "Rivian R1S": [
+    {
+      "file": "Debut of the Rivian R1S SUV at the 2018 Los Angeles Auto Show, November 27, 2018.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Richard Truesdell",
+      "source": "https://commons.wikimedia.org/wiki/File:Debut_of_the_Rivian_R1S_SUV_at_the_2018_Los_Angeles_Auto_Show%2C_November_27%2C_2018.jpg"
+    },
+    {
+      "file": "Rivian R1S, Howard Ave, Burlingame.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Mliu92",
+      "source": "https://commons.wikimedia.org/wiki/File:Rivian_R1S%2C_Howard_Ave%2C_Burlingame.jpg"
+    },
+    {
+      "file": "Rivian R1S, Howard Ave, Burlingame 2.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Mliu92",
+      "source": "https://commons.wikimedia.org/wiki/File:Rivian_R1S%2C_Howard_Ave%2C_Burlingame_2.jpg"
+    }
+  ],
+  "Chevrolet Blazer EV": [
+    {
+      "file": "2024 Chevrolet Blazer EV SS (United States) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Blazer_EV_SS_(United_States)_front_view.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Blazer EV SS (United States) rear view.jpg",
+      "kind": "rear",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Blazer_EV_SS_(United_States)_rear_view.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Blazer EV SS (United States) interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Booredatwork.com",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Blazer_EV_SS_(United_States)_interior.jpg"
+    }
+  ],
+  "Cadillac Lyriq": [
+    {
+      "file": "Cadillac Lyriq 001.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Elizbeth smith",
+      "source": "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq_001.jpg"
+    },
+    {
+      "file": "CADILLAC LYRIQ CHINA VERSION INTERIOR.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Dinkun Chen",
+      "source": "https://commons.wikimedia.org/wiki/File:CADILLAC_LYRIQ_CHINA_VERSION_INTERIOR.jpg"
+    },
+    {
+      "file": "Cadillac Lyriq 002.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Elizbeth smith",
+      "source": "https://commons.wikimedia.org/wiki/File:Cadillac_Lyriq_002.jpg"
+    }
+  ],
+  "Kia EV9": [
+    {
+      "file": "Kia EV9 IAA 2023 1X7A0694.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV9_IAA_2023_1X7A0694.jpg"
+    },
+    {
+      "file": "2023 Kia EV9 interior.jpg",
+      "kind": "interior",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "Car and Driver España",
+      "source": "https://commons.wikimedia.org/wiki/File:2023_Kia_EV9_interior.jpg"
+    },
+    {
+      "file": "Kia EV9 IAA 2023 1X7A0695.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander-93",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV9_IAA_2023_1X7A0695.jpg"
+    }
+  ],
+  "GMC Hummer EV": [
+    {
+      "file": "GMC Hummer EV.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "HJUdall",
+      "source": "https://commons.wikimedia.org/wiki/File:GMC_Hummer_EV.jpg"
+    },
+    {
+      "file": "2022 GMC Hummer EV front.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "UltraTech66",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_GMC_Hummer_EV_front.jpg"
+    },
+    {
+      "file": "2022 GMC Hummer EV pickup rear.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "DestinationFearFan",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_GMC_Hummer_EV_pickup_rear.jpg"
+    }
+  ],
+  "Kia EV6": [
+    {
+      "file": "Kia EV6 Auto Zuerich 2021 IMG 0606.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV6_Auto_Zuerich_2021_IMG_0606.jpg"
+    },
+    {
+      "file": "Kia EV6 GT-Line interior.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Ethan Llamas",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV6_GT-Line_interior.jpg"
+    },
+    {
+      "file": "Kia EV6 Auto Zuerich 2021 IMG 0613.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Kia_EV6_Auto_Zuerich_2021_IMG_0613.jpg"
+    }
+  ],
+  "Cadillac Optiq": [
+    {
+      "file": "Cadillac Optiq 001.jpg",
+      "kind": "exterior",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "JustAnotherCarDesigner",
+      "source": "https://commons.wikimedia.org/wiki/File:Cadillac_Optiq_001.jpg"
+    },
+    {
+      "file": "2025 Cadillac Optiq, front 5.3.25.jpg",
+      "kind": "front",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Kevauto",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Cadillac_Optiq%2C_front_5.3.25.jpg"
+    },
+    {
+      "file": "2025 Cadillac Optiq, rear 5.3.25.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Kevauto",
+      "source": "https://commons.wikimedia.org/wiki/File:2025_Cadillac_Optiq%2C_rear_5.3.25.jpg"
+    }
+  ],
+  "Acura ZDX": [
+    {
+      "file": "Acura ZDX A-Spec AWD (2024) (53624281577).jpg",
+      "kind": "exterior",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "author": "Charles from Port Chester",
+      "source": "https://commons.wikimedia.org/wiki/File:Acura_ZDX_A-Spec_AWD_(2024)_(53624281577).jpg"
+    },
+    {
+      "file": "2024 Acura ZDX A-Spec AWD (United States) front view.jpg",
+      "kind": "front",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "author": "Charles",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Acura_ZDX_A-Spec_AWD_(United_States)_front_view.jpg"
+    },
+    {
+      "file": "2024 Acura ZDX A-Spec AWD (United States) rear view.jpg",
+      "kind": "rear",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0/",
+      "author": "Charles",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Acura_ZDX_A-Spec_AWD_(United_States)_rear_view.jpg"
+    }
+  ],
+  "Chevrolet Silverado EV": [
+    {
+      "file": "2024 Chevrolet Silverado EV.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "UltraTech66",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Silverado_EV.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Silverado EV RST First Edition front view.jpg",
+      "kind": "front",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0/",
+      "author": "ChevroletCanada",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Silverado_EV_RST_First_Edition_front_view.jpg"
+    },
+    {
+      "file": "2024 Chevrolet Silverado EV 4WT AWD in Summit White, rear left, 2024-06-30.jpg",
+      "kind": "rear",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Elise240SX",
+      "source": "https://commons.wikimedia.org/wiki/File:2024_Chevrolet_Silverado_EV_4WT_AWD_in_Summit_White%2C_rear_left%2C_2024-06-30.jpg"
+    }
+  ],
+  "Lucid Air": [
+    {
+      "file": "Lucid Air, Santa Clara.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0/",
+      "author": "Mliu92",
+      "source": "https://commons.wikimedia.org/wiki/File:Lucid_Air%2C_Santa_Clara.jpg"
+    },
+    {
+      "file": "Lucid Air Bahrain Front.jpg",
+      "kind": "front",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ToyGTone",
+      "source": "https://commons.wikimedia.org/wiki/File:Lucid_Air_Bahrain_Front.jpg"
+    },
+    {
+      "file": "Lucid Air Bahrain Rear.jpg",
+      "kind": "rear",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "ToyGTone",
+      "source": "https://commons.wikimedia.org/wiki/File:Lucid_Air_Bahrain_Rear.jpg"
+    }
+  ],
+  "BMW iX": [
+    {
+      "file": "2022 BMW iX xDrive 40 kidney grille CRI 12 2021 2725.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "source": "https://commons.wikimedia.org/wiki/File:2022_BMW_iX_xDrive_40_kidney_grille_CRI_12_2021_2725.jpg"
+    },
+    {
+      "file": "BMW iX xDrive dashboard CRI 12 2021 2737.jpg",
+      "kind": "interior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_iX_xDrive_dashboard_CRI_12_2021_2737.jpg"
+    },
+    {
+      "file": "BMW iX xDrive 40 CRI 12 2021 2721.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Mariordo (Mario Roberto Durán Ortiz)",
+      "source": "https://commons.wikimedia.org/wiki/File:BMW_iX_xDrive_40_CRI_12_2021_2721.jpg"
+    }
+  ],
+  "Tesla Model X": [
+    {
+      "file": "Tesla Model X 100D 1X7A6736.jpg",
+      "kind": "exterior",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0/",
+      "author": "Alexander Migl",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_100D_1X7A6736.jpg"
+    },
+    {
+      "file": "Tesla Model X Plaid Front 3.jpg",
+      "kind": "front",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mpelas199",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_Plaid_Front_3.jpg"
+    },
+    {
+      "file": "Tesla Model X Plaid Back.jpg",
+      "kind": "rear",
+      "license": "CC0 1.0",
+      "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "author": "Mpelas199",
+      "source": "https://commons.wikimedia.org/wiki/File:Tesla_Model_X_Plaid_Back.jpg"
+    }
+  ]
+}

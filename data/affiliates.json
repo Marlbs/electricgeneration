@@ -1,0 +1,78 @@
+{
+  "_readme": [
+    "Affiliate / lead-gen partner configuration for the EV comparison page.",
+    "Each region lists the partners whose CTA buttons appear on every car card in that region.",
+    "TO ACTIVATE: sign up for the affiliate programme, then paste your tracking ID into 'trackingId'",
+    "and set 'enabled' to true. Buttons for disabled partners are not rendered.",
+    "",
+    "urlTemplate placeholders: {make} {model} {makeModel} {trackingId}  (all URL-encoded automatically)",
+    "",
+    "rel is set to 'sponsored nofollow noopener' automatically on every affiliate link, which is",
+    "what Google requires for paid/affiliate links. Do not remove it.",
+    "",
+    "Suggested programmes to apply to (you must apply yourself; each has its own approval process):",
+    "  UK       - Carwow Partners, LeaseLoco, Auto Trader Affiliates, Moneyshake, Rangeful",
+    "  EU       - Carwow DE, Leasingmarkt.de, Instamotion, Carvago, mobile.de partner programme",
+    "  Americas - CarGurus, TrueCar Affiliate, Edmunds, Carvana, CarsDirect (via CJ/Impact networks)",
+    "Most run through affiliate networks (Awin, CJ Affiliate, Impact, Rakuten) rather than direct.",
+    "showPlaceholderCtas: when true, cars show inert 'slot' buttons wherever a live affiliate button will appear once you set trackingId + enabled. Set false to hide them entirely."
+  ],
+  "disclosureText": "Volt may earn a commission when you request a quote through these links. This never affects our ratings, which are decided editorially before any partner is approached.",
+  "regions": {
+    "UK": [
+      {
+        "id": "carwow-uk",
+        "label": "Compare new & lease deals",
+        "network": "Awin / Carwow Partners",
+        "urlTemplate": "https://www.carwow.co.uk/search?q={makeModel}&utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      },
+      {
+        "id": "leaseloco-uk",
+        "label": "See leasing prices",
+        "network": "Awin",
+        "urlTemplate": "https://www.leaseloco.com/car-leasing/{make}/{model}?utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      }
+    ],
+    "EU": [
+      {
+        "id": "carwow-de",
+        "label": "Neuwagen & Leasing vergleichen",
+        "network": "Awin DE",
+        "urlTemplate": "https://www.carwow.de/suche?q={makeModel}&utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      },
+      {
+        "id": "leasingmarkt-de",
+        "label": "Leasingangebote ansehen",
+        "network": "Awin DE",
+        "urlTemplate": "https://www.leasingmarkt.de/suche?q={makeModel}&utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      }
+    ],
+    "Americas": [
+      {
+        "id": "cargurus-us",
+        "label": "Find local inventory",
+        "network": "Impact / CJ",
+        "urlTemplate": "https://www.cargurus.com/Cars/search?searchTerm={makeModel}&utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      },
+      {
+        "id": "truecar-us",
+        "label": "See what others paid",
+        "network": "CJ Affiliate",
+        "urlTemplate": "https://www.truecar.com/search/?searchQuery={makeModel}&utm_source=volt&utm_medium=affiliate&utm_campaign={trackingId}",
+        "trackingId": "",
+        "enabled": false
+      }
+    ]
+  },
+  "showPlaceholderCtas": true
+}
